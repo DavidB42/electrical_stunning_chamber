@@ -6,5 +6,10 @@ The setup is based on a 1.0 L Zebrafish Breeding Tank from TECHNIPLAST and inclu
 
 The chamber can be operated either with a simple power circuit for a limited set of stimulation parameters or with a programmable power source controlled by custom software. The software supports electrical stimulation using multiple parameter sets and enables video recording during experiments. Alternatively, the chamber can be connected to other suitable power sources via banana jacks.
 
-![alt text](https://github.com/DavidB42/electrical_stunning_chamber/blob/main/renderings/assembly_2026-Jun-02_11-09-03AM-000_CustomizedView10196832747_png_alpha.png?raw=true)
-*image_caption*
+<figure>
+  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/renderings/assembly_2026-Jun-02_11-09-03AM-000_CustomizedView10196832747_png_alpha.png?raw=true" alt="Rendering of the zebrafish electrical stunning chamber" width="600">
+  <figcaption><em>Rendering of the assembled zebrafish electrical stunning chamber.</em></figcaption>
+</figure>
+
+
+
