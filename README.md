@@ -2,7 +2,7 @@
  
 This repository contains everything needed to build the modular, 3D-printable electrical stunning chamber for zebrafish (*Danio rerio*) described in:
  
-> Burkhardt *et al.* (in preparation). *[Title of the manuscript]*. Lab Animal. [DOI will be added upon publication]
+> Burkhardt *et al.* (in preparation). *A modular electrical stunning chamber for zebrafish larvae and adults*. [DOI will be added upon publication]
  
 The chamber is used to kill zebrafish larvae and adult zebrafish humanely by electrical stunning with 230 V / 50 Hz alternating current. It is built around a standard 1.0 L Techniplast breeding tank, and all custom parts can be produced on a desktop 3D printer. The repository provides bills of materials, step-by-step assembly instructions, printable STL files and CAD drawings, so that the device can be rebuilt, adapted and improved by other laboratories.
 
@@ -115,7 +115,7 @@ Each folder contains a complete set of documents.
  
 If you use or adapt this design, please cite:
  
-> Burkhardt *et al.* (in preparation). *[Title]*. Lab Animal. [DOI]
+> Burkhardt *et al.* (in preparation). *A modular electrical stunning chamber for zebrafish larvae and adults*. [DOI will be added upon publication]
  
 ---
  
