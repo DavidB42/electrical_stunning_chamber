@@ -112,14 +112,9 @@ If you use or adapt this design, please cite:
  
 ---
  
-## License
- 
-*[Add license, e.g. CERN-OHL-S-2.0 for the hardware design files and CC BY 4.0 for the documentation.]*
- 
----
- 
 ## Contact
  
 Arrenberg Lab, Werner Reichardt Centre for Integrative Neuroscience (CIN), University of Tübingen, Germany
-*[Contact name and e-mail]*
+*Dr. David-Samuel Burkhardt, david-samuel.burkhardt[at]uni-tuebingen.de*
+*Prof. Dr. Aristides Arrenberg, aristides.arrenberg[at]uni-tuebingen.de*
 
