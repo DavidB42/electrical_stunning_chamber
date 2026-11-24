@@ -44,14 +44,6 @@ A magnet in the tank lid closes a reed switch in the tank frame, so the electrod
  
 The chamber is available in two configurations. Both share the same electrodes, electrode mounts and tank lid. They differ in the tank frame and in how the chamber is connected to the mains.
  
-### Experimental configuration
- 
-![Experimental configuration](images/experimental_configuration.jpg)
- 
-The experimental frame has **two 4 mm banana jacks** and **one reed switch** that interrupts one of the two conductors. It can be connected flexibly to different power sources and setups, which makes it suitable for developing and testing new stimulation parameters.
- 
-Because the reed switch interrupts only one pole, the **line conductor (L) must always be connected to the jack wired through the reed switch**. Otherwise the electrodes stay live when the lid is open. This configuration is therefore intended for **experienced users in a controlled experimental setting only**.
- 
 ### Daily-use configuration (recommended)
  
 ![Daily-use configuration](images/daily_use_configuration.jpg)
@@ -62,6 +54,14 @@ The daily-use frame is connected to a dedicated **control box** with a **4-core 
 - a digital timer controller that sets the exposure duration,
 - two 2-pole modular installation contactors.
 The electrodes are energised only when **both** contactors are closed. Contactor 1 closes while the lid is in place (reed switch), and contactor 2 closes while the timer is running. Both contactors switch both poles, so the electrodes are disconnected on all poles as soon as the lid is opened or the exposure time has elapsed. This configuration is intended for **routine use in the fish facility**.
+
+### Experimental configuration
+ 
+![Experimental configuration](images/experimental_configuration.jpg)
+ 
+The experimental frame has **two 4 mm banana jacks** and **one reed switch** that interrupts one of the two conductors. It can be connected flexibly to different power sources and setups, which makes it suitable for developing and testing new stimulation parameters.
+ 
+Because the reed switch interrupts only one pole, the **line conductor (L) must always be connected to the jack wired through the reed switch**. Otherwise the electrodes stay live when the lid is open. This configuration is therefore intended for **experienced users in a controlled experimental setting only**.
  
 ---
  
