@@ -64,10 +64,10 @@ The electrodes are energised only when **both** contactors are closed. Contactor
 ### Experimental configuration
 
 <p align="center">
-  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/images/frame.png?raw=true" alt="Photo of the experimental-use configuration, including frame/lid" width="600">
+  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/images/frame.png?raw=true" alt="Photo of the experimental-use configuration, including frame/lid and tank" width="600">
 </p>
 <p align="center">
-  <em>Photo of the experimental-use configuration, including frame/lid.</em>
+  <em>Photo of the experimental-use configuration, including frame/lid and tank.</em>
 </p>
  
 The experimental frame has **two 4 mm banana jacks** and **one reed switch** that interrupts one of the two conductors. It can be connected flexibly to different power sources and setups, which makes it suitable for developing and testing new stimulation parameters.
