@@ -115,6 +115,6 @@ If you use or adapt this design, please cite:
 ## Contact
  
 Arrenberg Lab, Werner Reichardt Centre for Integrative Neuroscience (CIN), University of Tübingen, Germany
-<p> *Dr. David-Samuel Burkhardt, david-samuel.burkhardt[at]uni-tuebingen.de* </p>
-<p> *Prof. Dr. Aristides Arrenberg, aristides.arrenberg[at]uni-tuebingen.de* </p>
+<p> **Dr. David-Samuel Burkhardt, david-samuel.burkhardt[at]uni-tuebingen.de** </p>
+<p> **Prof. Dr. Aristides Arrenberg, aristides.arrenberg[at]uni-tuebingen.de** </p>
 
