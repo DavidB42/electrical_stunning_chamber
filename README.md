@@ -45,8 +45,6 @@ A magnet in the tank lid closes a reed switch in the tank frame, so the electrod
 The chamber is available in two configurations. Both share the same electrodes, electrode mounts and tank lid. They differ in the tank frame and in how the chamber is connected to the mains.
  
 ### Daily-use configuration (recommended)
- 
-![Daily-use configuration]
 
 <p align="center">
   <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/images/frame_and_control_box.png?raw=true" alt="Photo of the daily-use configuration, including frame/lid and tank and the control box" width="600">
@@ -64,10 +62,13 @@ The daily-use frame is connected to a dedicated **control box** with a **4-core 
 The electrodes are energised only when **both** contactors are closed. Contactor 1 closes while the lid is in place (reed switch), and contactor 2 closes while the timer is running. Both contactors switch both poles, so the electrodes are disconnected on all poles as soon as the lid is opened or the exposure time has elapsed. This configuration is intended for **routine use in the fish facility**.
 
 ### Experimental configuration
- 
-![Experimental configuration]
 
-
+<p align="center">
+  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/images/frame.png?raw=true" alt="Photo of the experimental-use configuration, including frame/lid" width="600">
+</p>
+<p align="center">
+  <em>Photo of the experimental-use configuration, including frame/lid.</em>
+</p>
  
 The experimental frame has **two 4 mm banana jacks** and **one reed switch** that interrupts one of the two conductors. It can be connected flexibly to different power sources and setups, which makes it suitable for developing and testing new stimulation parameters.
  
