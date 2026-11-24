@@ -5,6 +5,13 @@ This repository contains everything needed to build the modular, 3D-printable el
 > Burkhardt *et al.* (in preparation). *[Title of the manuscript]*. Lab Animal. [DOI will be added upon publication]
  
 The chamber is used to kill zebrafish larvae and adult zebrafish humanely by electrical stunning with 230 V / 50 Hz alternating current. It is built around a standard 1.0 L Techniplast breeding tank, and all custom parts can be produced on a desktop 3D printer. The repository provides bills of materials, step-by-step assembly instructions, printable STL files and CAD drawings, so that the device can be rebuilt, adapted and improved by other laboratories.
+
+<p align="center">
+  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/images/assembly_2026-Jun-02_11-09-03AM-000_CustomizedView10196832747_png_alpha.png?raw=true" alt="Rendering of the zebrafish electrical stunning chamber" width="600">
+</p>
+<p align="center">
+  <em>Rendering of the assembled zebrafish electrical stunning chamber.</em>
+</p>
  
 ---
  
@@ -115,16 +122,4 @@ If you use or adapt this design, please cite:
  
 Arrenberg Lab, Werner Reichardt Centre for Integrative Neuroscience (CIN), University of Tübingen, Germany
 *[Contact name and e-mail]*
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/renderings/assembly_2026-Jun-02_11-09-03AM-000_CustomizedView10196832747_png_alpha.png?raw=true" alt="Rendering of the zebrafish electrical stunning chamber" width="600">
-</p>
-<p align="center">
-  <em>Rendering of the assembled zebrafish electrical stunning chamber.</em>
-</p>
-
 
