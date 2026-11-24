@@ -98,19 +98,14 @@ Each folder contains:
 | `stl/` | Print-ready files for all 3D-printed parts |
 | `cad/` | CAD source files and technical drawings |
  
-The electrodes (module B) and the tank lid (module C) are identical in both frame folders, so each folder contains a complete set of documents.
+Each folder contains a complete set of documents.
  
-**What to build:**
- 
-- **Experimental configuration:** `experimental_frame/`
-- **Daily-use configuration:** `daily_use_frame/` + `control_box/`
----
  
 ## Getting started
  
 1. Choose a configuration. For routine use, we recommend the daily-use configuration.
-2. Order the parts listed in the bill(s) of materials.
-3. Print the 3D-printed parts from the `stl/` folder(s). *[Add recommended material and print settings, e.g. PETG, layer height, infill.]*
+2. Order the parts listed in the bills of materials.
+3. Print the 3D-printed parts from the `stl/` folders.
 4. Assemble the chamber following the assembly instructions.
 5. Have the electrical installation checked by a qualified electrician before first use.
 ---
