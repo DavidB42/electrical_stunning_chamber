@@ -97,7 +97,7 @@ Each folder contains:
 | `bill_of_materials` | All purchased parts with quantities, suppliers and links |
 | `assembly_instructions` | Step-by-step instructions with photos |
 | `stl/` | Print-ready files for all 3D-printed parts |
-| `cad/` | CAD source files and technical drawings |
+| `cad_electrode` | CAD source files and technical drawings for manufacturing the stainless steel electrodes |
  
 Each folder contains a complete set of documents.
  
