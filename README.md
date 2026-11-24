@@ -46,7 +46,15 @@ The chamber is available in two configurations. Both share the same electrodes, 
  
 ### Daily-use configuration (recommended)
  
-![Daily-use configuration](images/daily_use_configuration.jpg)
+![Daily-use configuration]
+
+<p align="center">
+  <img src="https://github.com/DavidB42/electrical_stunning_chamber/blob/main/images/frame_and_control_box.png?raw=true" alt="Photo of the daily-use configuration, including frame/lid and tank and the control box" width="600">
+</p>
+<p align="center">
+  <em>Photo of the daily-use configuration, including frame/lid and tank and the control box.</em>
+</p>
+
  
 The daily-use frame is connected to a dedicated **control box** with a **4-core cable and a keyed circular connector**, so it cannot be plugged in the wrong way round. The control box contains:
  
@@ -57,7 +65,9 @@ The electrodes are energised only when **both** contactors are closed. Contactor
 
 ### Experimental configuration
  
-![Experimental configuration](images/experimental_configuration.jpg)
+![Experimental configuration]
+
+
  
 The experimental frame has **two 4 mm banana jacks** and **one reed switch** that interrupts one of the two conductors. It can be connected flexibly to different power sources and setups, which makes it suitable for developing and testing new stimulation parameters.
  
