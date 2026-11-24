@@ -81,10 +81,11 @@ Because the reed switch interrupts only one pole, the **line conductor (L) must 
 Each component has its own folder with all documents needed to buy the parts and build it.
  
 ```
-├── experimental_frame/      Tank frame with banana jacks (experimental configuration)
-├── daily_use_frame/         Tank frame with circular connector (daily-use configuration)
-├── control_box/             Control box for the daily-use configuration
-├── images/                  Photos used on this page
+├── experimental_frame/                      Tank frame with banana jacks (experimental configuration)
+├── daily_use_frame/                         Tank frame with circular connector (daily-use configuration)
+├── control_box/                             Control box for the daily-use configuration
+├── images/                                  Photos used on this page
+├── standard_electrical_stunning_protocol    Standard protocol for reliable operation of the daily-use configuration
 ├── LICENSE
 └── README.md
 ```
